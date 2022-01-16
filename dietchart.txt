@@ -1,4 +1,8 @@
 chicken 500 gram
 eggs 2 pcs
 vegetable 1 bowl
+milk 1 glass
+rice 1 bowl
+dal 1 bowl
+
 
